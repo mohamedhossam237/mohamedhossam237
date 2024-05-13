@@ -4,7 +4,7 @@ Welcome to my corner of GitHub! I am a dynamic Software Developer and Data Engin
 
 ## 👨‍💻 Tech Stack
 - **Mobile and Web App Development**: Expertise in crafting responsive and intuitive applications using Flutter, Java, and JavaScript.
-- **Programming Languages**: Proficient in Python, Java, dart, and JavaScript.
+- **Programming Languages**: Proficient in Python, Java, Dart, and JavaScript.
 - **Data Engineering**: Skilled in building scalable data pipelines and architectures.
 - **Design Tools**: Experienced with Adobe Photoshop and Figma, ensuring that all my projects are not only functional but also visually appealing.
 
