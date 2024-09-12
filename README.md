@@ -1,6 +1,6 @@
 # Hello, I'm Mohamed Hossam 👋
 
-Welcome to my corner of GitHub! I am a dynamic Software Developer and Data Engineer with a passion for blending programming, data engineering, and design to create impactful technological solutions. Here’s a little about my technical prowess and interests:
+Welcome to my corner of GitHub! I am a Software Developer and Ai & Data Engineer with a passion for blending programming, data engineering, and design to create impactful technological solutions. Here’s a little about my technical prowess and interests:
 
 ## 👨‍💻 Tech Stack
 - **Mobile and Web App Development**: Expertise in crafting responsive and intuitive applications using Flutter, Java, and JavaScript.
